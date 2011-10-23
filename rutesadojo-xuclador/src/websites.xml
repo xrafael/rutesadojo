@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : websites.xml
+    Created on : 15 de octubre de 2011, 8:34
+    Author     : xavi
+    Description:
+        Purpose of the document follows.
+-->
+
+<websites>
+	<website>
+		<url>http://excursionistes.cat/</url>
+		<name></name>
+		<type></type>
+		<description></description>
+	</website>
+		<website>
+		<url>http://www.dexcursio.net/catalunya.html</url>
+		<name></name>
+		<type></type>
+		<description></description>
+	</website>
+</websites>

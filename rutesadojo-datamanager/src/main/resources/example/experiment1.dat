@@ -1,0 +1,13 @@
+Regions	genes	pValue
+rect1	gene1	0.5
+rect1	gene2	0.7
+rect1	gene3	0.8
+rect2	gene1	0.3
+rect2	gene3	0.1
+ellipse1	gene2	0.9
+ellipse1	gene3	0.1
+ellipse2	gene1	0.6
+ellipse2	gene2	0.5
+ellipse2	gene4	0.4
+ellipse2	gene5	0.6
+
